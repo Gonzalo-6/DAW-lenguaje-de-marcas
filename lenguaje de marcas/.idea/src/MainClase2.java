@@ -1,4 +1,4 @@
-package Clase2;
+package DAW1;
 public class MainClase2 {
     public static void main(String[] args) {
             /*
