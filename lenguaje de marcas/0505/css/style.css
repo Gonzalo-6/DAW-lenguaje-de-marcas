@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.encabezado{
+    border: 3px red solid;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%; 
+    font-size: 2vw;
+
+}
+
+.logo img{
+    width: 100%;
+
+}
+.logo {
+    width: 30%;
+    margin-left: 35%;
+}
+    
