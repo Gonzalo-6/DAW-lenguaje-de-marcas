@@ -1,0 +1,8 @@
+/*
+Apuntes
+- block: ocupa todo el ancho de la pantalla
+- inline:No empieza linea. ocupa solo el ancho necesario
+- inline-block: ocupa solo el ancho necesario pero se le puede asignar un ancho y alto
+- none: ocupa completamente  al elemento
+- flex: ocupa todo el ancho de la pantalla pero se le puede asignar un ancho y alto
+- grid: ocupa todo el ancho de la pantalla pero se le puede asignar un ancho y alto
