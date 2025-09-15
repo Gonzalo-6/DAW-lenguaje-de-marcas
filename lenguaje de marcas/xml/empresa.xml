@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <empleado id="1AAA">
+        <nombre>Gonzalo</nombre>
+        <apellidos>Arranz</apellidos>
+        <numero></numero>
+        <correo></correo>
+        <direccion>
+            <ciudad></ciudad>
+            <estado>
+            </estado>
+            <zip></zip>
+        </direccion>
+    </empleado>
+  

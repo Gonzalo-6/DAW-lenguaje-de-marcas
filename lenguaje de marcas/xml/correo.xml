@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <correo id="1AAA">
+    <importanciAlta>
+        <de>g-arranz@hotmail.com</de>
+         <para>g.arranz@colegioaarula.com</para>
+        <cc> </cc>
+        <cco> </cco>
+        <asunto>Prueba de correo</asunto>
+        <cuerpo>Este es un correo de prueba enviado desde Java.</cuerpo>
+    </importanciAlta>
+    </correo>
+    <correo id="2BBB">    
+        <de>g-arranz@hotmail.com</de>
+         <para>g.arranz@colegioaarula.com</para>
+        <cc> </cc>
+        <cco> </cco>
+        <asunto>Prueba de correo</asunto>
+        <cuerpo>Este es un correo de prueba enviado desde Java.</cuerpo>
+    </correo>
+</email>

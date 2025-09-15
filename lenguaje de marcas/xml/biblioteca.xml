@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro id="1AAA">
+        <titulo>La vida está en otra parte</titulo>
+        <autor>Milan Kundera</autor>
+        <fechaPublicacion> año ="1973"</fechaPublicacion>
+    </libro>
+    <libro id="2BBB">
+        <titulo>Pantaleon y las visitadas</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <fechaPublicacion>  </fechaPublicacion>
+    </libro>
+    <libro id="3CCC">
+       <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <fechaPublicacion>  </fechaPublicacion>
+    </libro>
