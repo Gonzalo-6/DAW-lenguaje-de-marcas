@@ -1,0 +1,7 @@
+    <!ELEMENT casas_rurales (casa+)>
+    <!ELEMENT casa (descripcion+, direccion+, estado+, tamanio+, disponible+)>
+    <!ELEMENT descripcion (#PCDATA)>
+    <!ELEMENT direccion (#PCDATA)>
+    <!ELEMENT estado (#PCDATA)>
+    <!ELEMENT tamanio (#PCDATA)>
+    <!ELEMENT disponible EMPTY>

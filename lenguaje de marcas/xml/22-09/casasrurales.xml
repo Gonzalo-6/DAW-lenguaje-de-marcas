@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE casas_rurales SYSTEM "ejercicio 1.dtd"> 
+
+<casas_rurales>
+    <casa>  
+        <descripcion>
+            Casa rural en el centro del pueblo
+        </descripcion>
+        <direccion>
+            Avenida de los rosales
+        </direccion>
+        <estado>
+            disponible
+        </estado>
+        <tamanio>200m2</tamanio>
+        <disponible></disponible>
+    </casa>
+     <casa>  
+        <descripcion>
+            Casa rural en el centro del pueblo
+        </descripcion>
+        <direccion>
+            Avenida de los rosales
+        </direccion>
+        <estado>
+            disponible
+        </estado>
+        <tamanio>200m2</tamanio>
+        <disponible></disponible>
+    </casa>
+</casas_rurales>
+
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE universidad SYSTEM "ejercicio4.dtd">
+
+<universidad>
+ <asignaturas>
+    <asignatura id="A1">
+        <nombre>Python</nombre>
+        <creditos>10</creditos>
+    </asignatura>
+        <asignatura id="A2">
+        <nombre>Programación</nombre>
+        <creditos>10</creditos>
+    </asignatura>
+        <asignatura id="A3">
+        <nombre>Legunaje Marcas</nombre>
+        <creditos>5</creditos>
+    </asignatura>
+ </asignaturas>
+ <alumnos>
+    <alumno nia="10001">
+        <nombre>Paco</nombre>
+    </alumno>
+    <alumno nia="10002">
+        <nombre>Juan</nombre>
+    </alumno>
+    <alumno nia="10003">
+        <nombre>Tony</nombre>
+    </alumno>
+ </alumnos>
+ <matriculas>
+    <matricula alumno="10001" asignatura="A1"/>
+    <matricula alumno="10001" asignatura="A2"/> 
+ </matriculas>
+</universidad>
